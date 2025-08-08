@@ -41,7 +41,7 @@ Slaque é uma aplicação Java que simula um sistema básico de chat com canais 
 
 ## Como usar
 
-Exemplo básico de uso, conforme a classe `SlaqueMain`:
+Exemplo básico de uso, conforme a classe  `SlaqueMain` (Main apenas para testar as funcionalidades):
 
 ```java
 Slaque sl = new Slaque();
